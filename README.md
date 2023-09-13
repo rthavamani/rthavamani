@@ -1,4 +1,4 @@
-### Hi there 👋 it OPS445 Raghavendra Thavamani
+### Hi there its OPS445 Raghavendra Thavamani
 
 <!--
 **rthavamani/rthavamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
